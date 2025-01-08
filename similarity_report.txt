@@ -1,0 +1,73 @@
+Detailed Similarity Report
+==========================
+
+Document 1 vs Document 2:
+Similarity: 81.82%
+Doc 1 (original): Artificial intelligence is the future of technology.
+Doc 2 (original): The future of technology lies in artificial intelligence.
+Doc 1 (processed): artificial intelligence future technology
+Doc 2 (processed): future technology lie artificial intelligence
+
+Document 1 vs Document 3:
+Similarity: 0.00%
+Doc 1 (original): Artificial intelligence is the future of technology.
+Doc 3 (original): Machine learning, a subset of AI, is revolutionizing various industries.
+Doc 1 (processed): artificial intelligence future technology
+Doc 3 (processed): machine learning subset ai revolutionizing various industry
+
+Document 1 vs Document 4:
+Similarity: 22.03%
+Doc 1 (original): Artificial intelligence is the future of technology.
+Doc 4 (original): Natural language processing is an important field within artificial intelligence.
+Doc 1 (processed): artificial intelligence future technology
+Doc 4 (processed): natural language processing important field within artificial intelligence
+
+Document 1 vs Document 5:
+Similarity: 29.12%
+Doc 1 (original): Artificial intelligence is the future of technology.
+Doc 5 (original): The impact of AI on future technology cannot be overstated.
+Doc 1 (processed): artificial intelligence future technology
+Doc 5 (processed): impact ai future technology overstated
+
+Document 2 vs Document 3:
+Similarity: 0.00%
+Doc 2 (original): The future of technology lies in artificial intelligence.
+Doc 3 (original): Machine learning, a subset of AI, is revolutionizing various industries.
+Doc 2 (processed): future technology lie artificial intelligence
+Doc 3 (processed): machine learning subset ai revolutionizing various industry
+
+Document 2 vs Document 4:
+Similarity: 19.09%
+Doc 2 (original): The future of technology lies in artificial intelligence.
+Doc 4 (original): Natural language processing is an important field within artificial intelligence.
+Doc 2 (processed): future technology lie artificial intelligence
+Doc 4 (processed): natural language processing important field within artificial intelligence
+
+Document 2 vs Document 5:
+Similarity: 25.23%
+Doc 2 (original): The future of technology lies in artificial intelligence.
+Doc 5 (original): The impact of AI on future technology cannot be overstated.
+Doc 2 (processed): future technology lie artificial intelligence
+Doc 5 (processed): impact ai future technology overstated
+
+Document 3 vs Document 4:
+Similarity: 0.00%
+Doc 3 (original): Machine learning, a subset of AI, is revolutionizing various industries.
+Doc 4 (original): Natural language processing is an important field within artificial intelligence.
+Doc 3 (processed): machine learning subset ai revolutionizing various industry
+Doc 4 (processed): natural language processing important field within artificial intelligence
+
+Document 3 vs Document 5:
+Similarity: 9.35%
+Doc 3 (original): Machine learning, a subset of AI, is revolutionizing various industries.
+Doc 5 (original): The impact of AI on future technology cannot be overstated.
+Doc 3 (processed): machine learning subset ai revolutionizing various industry
+Doc 5 (processed): impact ai future technology overstated
+
+Document 4 vs Document 5:
+Similarity: 0.00%
+Doc 4 (original): Natural language processing is an important field within artificial intelligence.
+Doc 5 (original): The impact of AI on future technology cannot be overstated.
+Doc 4 (processed): natural language processing important field within artificial intelligence
+Doc 5 (processed): impact ai future technology overstated
+

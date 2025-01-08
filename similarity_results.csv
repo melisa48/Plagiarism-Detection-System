@@ -1,0 +1,11 @@
+doc1_id,doc2_id,similarity,doc1_processed,doc2_processed
+1,2,81.81802073667197,artificial intelligence future technology,future technology lie artificial intelligence
+1,3,0.0,artificial intelligence future technology,machine learning subset ai revolutionizing various industry
+1,4,22.02881505618297,artificial intelligence future technology,natural language processing important field within artificial intelligence
+1,5,29.12194185636897,artificial intelligence future technology,impact ai future technology overstated
+2,3,0.0,future technology lie artificial intelligence,machine learning subset ai revolutionizing various industry
+2,4,19.08740661302035,future technology lie artificial intelligence,natural language processing important field within artificial intelligence
+2,5,25.233420143369617,future technology lie artificial intelligence,impact ai future technology overstated
+3,4,0.0,machine learning subset ai revolutionizing various industry,natural language processing important field within artificial intelligence
+3,5,9.349477497536716,machine learning subset ai revolutionizing various industry,impact ai future technology overstated
+4,5,0.0,natural language processing important field within artificial intelligence,impact ai future technology overstated

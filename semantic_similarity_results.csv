@@ -1,0 +1,46 @@
+doc1_id,doc2_id,similarity,doc1_processed,doc2_processed
+1,2,89.35624361038208,artificial intelligence future technology,future technology lie artificial intelligence
+1,3,59.224653244018555,artificial intelligence future technology,machine learning subset ai revolutionizing various industry
+1,4,56.08521103858948,artificial intelligence future technology,natural language processing important field within artificial intelligence
+1,5,60.70948243141174,artificial intelligence future technology,impact ai future technology overstated
+1,6,46.35429382324219,artificial intelligence future technology,deep learning algorithm transforming field computer vision
+1,7,53.50656509399414,artificial intelligence future technology,robotics ai combining create autonomous system
+1,8,39.653587341308594,artificial intelligence future technology,big data analytics relies heavily machine learning technique
+1,9,35.03623008728027,artificial intelligence future technology,ethical implication ai topic ongoing debate
+1,10,49.90023970603943,artificial intelligence future technology,quantum computing may revolutionize capability ai system
+2,3,55.84087371826172,future technology lie artificial intelligence,machine learning subset ai revolutionizing various industry
+2,4,48.18575978279114,future technology lie artificial intelligence,natural language processing important field within artificial intelligence
+2,5,67.49780178070068,future technology lie artificial intelligence,impact ai future technology overstated
+2,6,46.568626165390015,future technology lie artificial intelligence,deep learning algorithm transforming field computer vision
+2,7,44.41601634025574,future technology lie artificial intelligence,robotics ai combining create autonomous system
+2,8,36.01861596107483,future technology lie artificial intelligence,big data analytics relies heavily machine learning technique
+2,9,38.25770616531372,future technology lie artificial intelligence,ethical implication ai topic ongoing debate
+2,10,52.13445425033569,future technology lie artificial intelligence,quantum computing may revolutionize capability ai system
+3,4,44.01557743549347,machine learning subset ai revolutionizing various industry,natural language processing important field within artificial intelligence
+3,5,53.44822406768799,machine learning subset ai revolutionizing various industry,impact ai future technology overstated
+3,6,52.17171907424927,machine learning subset ai revolutionizing various industry,deep learning algorithm transforming field computer vision
+3,7,53.33583950996399,machine learning subset ai revolutionizing various industry,robotics ai combining create autonomous system
+3,8,58.89332294464111,machine learning subset ai revolutionizing various industry,big data analytics relies heavily machine learning technique
+3,9,32.04096555709839,machine learning subset ai revolutionizing various industry,ethical implication ai topic ongoing debate
+3,10,48.08238744735718,machine learning subset ai revolutionizing various industry,quantum computing may revolutionize capability ai system
+4,5,24.119795858860016,natural language processing important field within artificial intelligence,impact ai future technology overstated
+4,6,47.065114974975586,natural language processing important field within artificial intelligence,deep learning algorithm transforming field computer vision
+4,7,39.643269777297974,natural language processing important field within artificial intelligence,robotics ai combining create autonomous system
+4,8,37.38321661949158,natural language processing important field within artificial intelligence,big data analytics relies heavily machine learning technique
+4,9,27.701738476753235,natural language processing important field within artificial intelligence,ethical implication ai topic ongoing debate
+4,10,20.05692422389984,natural language processing important field within artificial intelligence,quantum computing may revolutionize capability ai system
+5,6,33.42662751674652,impact ai future technology overstated,deep learning algorithm transforming field computer vision
+5,7,44.76180970668793,impact ai future technology overstated,robotics ai combining create autonomous system
+5,8,26.814234256744385,impact ai future technology overstated,big data analytics relies heavily machine learning technique
+5,9,39.754754304885864,impact ai future technology overstated,ethical implication ai topic ongoing debate
+5,10,55.287641286849976,impact ai future technology overstated,quantum computing may revolutionize capability ai system
+6,7,37.00358271598816,deep learning algorithm transforming field computer vision,robotics ai combining create autonomous system
+6,8,56.33838772773743,deep learning algorithm transforming field computer vision,big data analytics relies heavily machine learning technique
+6,9,10.4131780564785,deep learning algorithm transforming field computer vision,ethical implication ai topic ongoing debate
+6,10,29.087910056114197,deep learning algorithm transforming field computer vision,quantum computing may revolutionize capability ai system
+7,8,15.892857313156128,robotics ai combining create autonomous system,big data analytics relies heavily machine learning technique
+7,9,28.701305389404297,robotics ai combining create autonomous system,ethical implication ai topic ongoing debate
+7,10,49.8879611492157,robotics ai combining create autonomous system,quantum computing may revolutionize capability ai system
+8,9,5.537677556276321,big data analytics relies heavily machine learning technique,ethical implication ai topic ongoing debate
+8,10,27.811121940612793,big data analytics relies heavily machine learning technique,quantum computing may revolutionize capability ai system
+9,10,26.714712381362915,ethical implication ai topic ongoing debate,quantum computing may revolutionize capability ai system

@@ -1,0 +1,319 @@
+Detailed Similarity Report
+==========================
+
+Document 1 vs Document 2:
+Similarity: 89.36%
+*** POTENTIAL PLAGIARISM DETECTED ***
+Doc 1 (original): Artificial intelligence is the future of technology.
+Doc 2 (original): The future of technology lies in artificial intelligence.
+Doc 1 (processed): artificial intelligence future technology
+Doc 2 (processed): future technology lie artificial intelligence
+
+Document 1 vs Document 3:
+Similarity: 59.22%
+Doc 1 (original): Artificial intelligence is the future of technology.
+Doc 3 (original): Machine learning, a subset of AI, is revolutionizing various industries.
+Doc 1 (processed): artificial intelligence future technology
+Doc 3 (processed): machine learning subset ai revolutionizing various industry
+
+Document 1 vs Document 4:
+Similarity: 56.09%
+Doc 1 (original): Artificial intelligence is the future of technology.
+Doc 4 (original): Natural language processing is an important field within artificial intelligence.
+Doc 1 (processed): artificial intelligence future technology
+Doc 4 (processed): natural language processing important field within artificial intelligence
+
+Document 1 vs Document 5:
+Similarity: 60.71%
+Doc 1 (original): Artificial intelligence is the future of technology.
+Doc 5 (original): The impact of AI on future technology cannot be overstated.
+Doc 1 (processed): artificial intelligence future technology
+Doc 5 (processed): impact ai future technology overstated
+
+Document 1 vs Document 6:
+Similarity: 46.35%
+Doc 1 (original): Artificial intelligence is the future of technology.
+Doc 6 (original): Deep learning algorithms are transforming the field of computer vision.
+Doc 1 (processed): artificial intelligence future technology
+Doc 6 (processed): deep learning algorithm transforming field computer vision
+
+Document 1 vs Document 7:
+Similarity: 53.51%
+Doc 1 (original): Artificial intelligence is the future of technology.
+Doc 7 (original): Robotics and AI are combining to create autonomous systems.
+Doc 1 (processed): artificial intelligence future technology
+Doc 7 (processed): robotics ai combining create autonomous system
+
+Document 1 vs Document 8:
+Similarity: 39.65%
+Doc 1 (original): Artificial intelligence is the future of technology.
+Doc 8 (original): Big data analytics relies heavily on machine learning techniques.
+Doc 1 (processed): artificial intelligence future technology
+Doc 8 (processed): big data analytics relies heavily machine learning technique
+
+Document 1 vs Document 9:
+Similarity: 35.04%
+Doc 1 (original): Artificial intelligence is the future of technology.
+Doc 9 (original): The ethical implications of AI are a topic of ongoing debate.
+Doc 1 (processed): artificial intelligence future technology
+Doc 9 (processed): ethical implication ai topic ongoing debate
+
+Document 1 vs Document 10:
+Similarity: 49.90%
+Doc 1 (original): Artificial intelligence is the future of technology.
+Doc 10 (original): Quantum computing may revolutionize the capabilities of AI systems.
+Doc 1 (processed): artificial intelligence future technology
+Doc 10 (processed): quantum computing may revolutionize capability ai system
+
+Document 2 vs Document 3:
+Similarity: 55.84%
+Doc 2 (original): The future of technology lies in artificial intelligence.
+Doc 3 (original): Machine learning, a subset of AI, is revolutionizing various industries.
+Doc 2 (processed): future technology lie artificial intelligence
+Doc 3 (processed): machine learning subset ai revolutionizing various industry
+
+Document 2 vs Document 4:
+Similarity: 48.19%
+Doc 2 (original): The future of technology lies in artificial intelligence.
+Doc 4 (original): Natural language processing is an important field within artificial intelligence.
+Doc 2 (processed): future technology lie artificial intelligence
+Doc 4 (processed): natural language processing important field within artificial intelligence
+
+Document 2 vs Document 5:
+Similarity: 67.50%
+Doc 2 (original): The future of technology lies in artificial intelligence.
+Doc 5 (original): The impact of AI on future technology cannot be overstated.
+Doc 2 (processed): future technology lie artificial intelligence
+Doc 5 (processed): impact ai future technology overstated
+
+Document 2 vs Document 6:
+Similarity: 46.57%
+Doc 2 (original): The future of technology lies in artificial intelligence.
+Doc 6 (original): Deep learning algorithms are transforming the field of computer vision.
+Doc 2 (processed): future technology lie artificial intelligence
+Doc 6 (processed): deep learning algorithm transforming field computer vision
+
+Document 2 vs Document 7:
+Similarity: 44.42%
+Doc 2 (original): The future of technology lies in artificial intelligence.
+Doc 7 (original): Robotics and AI are combining to create autonomous systems.
+Doc 2 (processed): future technology lie artificial intelligence
+Doc 7 (processed): robotics ai combining create autonomous system
+
+Document 2 vs Document 8:
+Similarity: 36.02%
+Doc 2 (original): The future of technology lies in artificial intelligence.
+Doc 8 (original): Big data analytics relies heavily on machine learning techniques.
+Doc 2 (processed): future technology lie artificial intelligence
+Doc 8 (processed): big data analytics relies heavily machine learning technique
+
+Document 2 vs Document 9:
+Similarity: 38.26%
+Doc 2 (original): The future of technology lies in artificial intelligence.
+Doc 9 (original): The ethical implications of AI are a topic of ongoing debate.
+Doc 2 (processed): future technology lie artificial intelligence
+Doc 9 (processed): ethical implication ai topic ongoing debate
+
+Document 2 vs Document 10:
+Similarity: 52.13%
+Doc 2 (original): The future of technology lies in artificial intelligence.
+Doc 10 (original): Quantum computing may revolutionize the capabilities of AI systems.
+Doc 2 (processed): future technology lie artificial intelligence
+Doc 10 (processed): quantum computing may revolutionize capability ai system
+
+Document 3 vs Document 4:
+Similarity: 44.02%
+Doc 3 (original): Machine learning, a subset of AI, is revolutionizing various industries.
+Doc 4 (original): Natural language processing is an important field within artificial intelligence.
+Doc 3 (processed): machine learning subset ai revolutionizing various industry
+Doc 4 (processed): natural language processing important field within artificial intelligence
+
+Document 3 vs Document 5:
+Similarity: 53.45%
+Doc 3 (original): Machine learning, a subset of AI, is revolutionizing various industries.
+Doc 5 (original): The impact of AI on future technology cannot be overstated.
+Doc 3 (processed): machine learning subset ai revolutionizing various industry
+Doc 5 (processed): impact ai future technology overstated
+
+Document 3 vs Document 6:
+Similarity: 52.17%
+Doc 3 (original): Machine learning, a subset of AI, is revolutionizing various industries.
+Doc 6 (original): Deep learning algorithms are transforming the field of computer vision.
+Doc 3 (processed): machine learning subset ai revolutionizing various industry
+Doc 6 (processed): deep learning algorithm transforming field computer vision
+
+Document 3 vs Document 7:
+Similarity: 53.34%
+Doc 3 (original): Machine learning, a subset of AI, is revolutionizing various industries.
+Doc 7 (original): Robotics and AI are combining to create autonomous systems.
+Doc 3 (processed): machine learning subset ai revolutionizing various industry
+Doc 7 (processed): robotics ai combining create autonomous system
+
+Document 3 vs Document 8:
+Similarity: 58.89%
+Doc 3 (original): Machine learning, a subset of AI, is revolutionizing various industries.
+Doc 8 (original): Big data analytics relies heavily on machine learning techniques.
+Doc 3 (processed): machine learning subset ai revolutionizing various industry
+Doc 8 (processed): big data analytics relies heavily machine learning technique
+
+Document 3 vs Document 9:
+Similarity: 32.04%
+Doc 3 (original): Machine learning, a subset of AI, is revolutionizing various industries.
+Doc 9 (original): The ethical implications of AI are a topic of ongoing debate.
+Doc 3 (processed): machine learning subset ai revolutionizing various industry
+Doc 9 (processed): ethical implication ai topic ongoing debate
+
+Document 3 vs Document 10:
+Similarity: 48.08%
+Doc 3 (original): Machine learning, a subset of AI, is revolutionizing various industries.
+Doc 10 (original): Quantum computing may revolutionize the capabilities of AI systems.
+Doc 3 (processed): machine learning subset ai revolutionizing various industry
+Doc 10 (processed): quantum computing may revolutionize capability ai system
+
+Document 4 vs Document 5:
+Similarity: 24.12%
+Doc 4 (original): Natural language processing is an important field within artificial intelligence.
+Doc 5 (original): The impact of AI on future technology cannot be overstated.
+Doc 4 (processed): natural language processing important field within artificial intelligence
+Doc 5 (processed): impact ai future technology overstated
+
+Document 4 vs Document 6:
+Similarity: 47.07%
+Doc 4 (original): Natural language processing is an important field within artificial intelligence.
+Doc 6 (original): Deep learning algorithms are transforming the field of computer vision.
+Doc 4 (processed): natural language processing important field within artificial intelligence
+Doc 6 (processed): deep learning algorithm transforming field computer vision
+
+Document 4 vs Document 7:
+Similarity: 39.64%
+Doc 4 (original): Natural language processing is an important field within artificial intelligence.
+Doc 7 (original): Robotics and AI are combining to create autonomous systems.
+Doc 4 (processed): natural language processing important field within artificial intelligence
+Doc 7 (processed): robotics ai combining create autonomous system
+
+Document 4 vs Document 8:
+Similarity: 37.38%
+Doc 4 (original): Natural language processing is an important field within artificial intelligence.
+Doc 8 (original): Big data analytics relies heavily on machine learning techniques.
+Doc 4 (processed): natural language processing important field within artificial intelligence
+Doc 8 (processed): big data analytics relies heavily machine learning technique
+
+Document 4 vs Document 9:
+Similarity: 27.70%
+Doc 4 (original): Natural language processing is an important field within artificial intelligence.
+Doc 9 (original): The ethical implications of AI are a topic of ongoing debate.
+Doc 4 (processed): natural language processing important field within artificial intelligence
+Doc 9 (processed): ethical implication ai topic ongoing debate
+
+Document 4 vs Document 10:
+Similarity: 20.06%
+Doc 4 (original): Natural language processing is an important field within artificial intelligence.
+Doc 10 (original): Quantum computing may revolutionize the capabilities of AI systems.
+Doc 4 (processed): natural language processing important field within artificial intelligence
+Doc 10 (processed): quantum computing may revolutionize capability ai system
+
+Document 5 vs Document 6:
+Similarity: 33.43%
+Doc 5 (original): The impact of AI on future technology cannot be overstated.
+Doc 6 (original): Deep learning algorithms are transforming the field of computer vision.
+Doc 5 (processed): impact ai future technology overstated
+Doc 6 (processed): deep learning algorithm transforming field computer vision
+
+Document 5 vs Document 7:
+Similarity: 44.76%
+Doc 5 (original): The impact of AI on future technology cannot be overstated.
+Doc 7 (original): Robotics and AI are combining to create autonomous systems.
+Doc 5 (processed): impact ai future technology overstated
+Doc 7 (processed): robotics ai combining create autonomous system
+
+Document 5 vs Document 8:
+Similarity: 26.81%
+Doc 5 (original): The impact of AI on future technology cannot be overstated.
+Doc 8 (original): Big data analytics relies heavily on machine learning techniques.
+Doc 5 (processed): impact ai future technology overstated
+Doc 8 (processed): big data analytics relies heavily machine learning technique
+
+Document 5 vs Document 9:
+Similarity: 39.75%
+Doc 5 (original): The impact of AI on future technology cannot be overstated.
+Doc 9 (original): The ethical implications of AI are a topic of ongoing debate.
+Doc 5 (processed): impact ai future technology overstated
+Doc 9 (processed): ethical implication ai topic ongoing debate
+
+Document 5 vs Document 10:
+Similarity: 55.29%
+Doc 5 (original): The impact of AI on future technology cannot be overstated.
+Doc 10 (original): Quantum computing may revolutionize the capabilities of AI systems.
+Doc 5 (processed): impact ai future technology overstated
+Doc 10 (processed): quantum computing may revolutionize capability ai system
+
+Document 6 vs Document 7:
+Similarity: 37.00%
+Doc 6 (original): Deep learning algorithms are transforming the field of computer vision.
+Doc 7 (original): Robotics and AI are combining to create autonomous systems.
+Doc 6 (processed): deep learning algorithm transforming field computer vision
+Doc 7 (processed): robotics ai combining create autonomous system
+
+Document 6 vs Document 8:
+Similarity: 56.34%
+Doc 6 (original): Deep learning algorithms are transforming the field of computer vision.
+Doc 8 (original): Big data analytics relies heavily on machine learning techniques.
+Doc 6 (processed): deep learning algorithm transforming field computer vision
+Doc 8 (processed): big data analytics relies heavily machine learning technique
+
+Document 6 vs Document 9:
+Similarity: 10.41%
+Doc 6 (original): Deep learning algorithms are transforming the field of computer vision.
+Doc 9 (original): The ethical implications of AI are a topic of ongoing debate.
+Doc 6 (processed): deep learning algorithm transforming field computer vision
+Doc 9 (processed): ethical implication ai topic ongoing debate
+
+Document 6 vs Document 10:
+Similarity: 29.09%
+Doc 6 (original): Deep learning algorithms are transforming the field of computer vision.
+Doc 10 (original): Quantum computing may revolutionize the capabilities of AI systems.
+Doc 6 (processed): deep learning algorithm transforming field computer vision
+Doc 10 (processed): quantum computing may revolutionize capability ai system
+
+Document 7 vs Document 8:
+Similarity: 15.89%
+Doc 7 (original): Robotics and AI are combining to create autonomous systems.
+Doc 8 (original): Big data analytics relies heavily on machine learning techniques.
+Doc 7 (processed): robotics ai combining create autonomous system
+Doc 8 (processed): big data analytics relies heavily machine learning technique
+
+Document 7 vs Document 9:
+Similarity: 28.70%
+Doc 7 (original): Robotics and AI are combining to create autonomous systems.
+Doc 9 (original): The ethical implications of AI are a topic of ongoing debate.
+Doc 7 (processed): robotics ai combining create autonomous system
+Doc 9 (processed): ethical implication ai topic ongoing debate
+
+Document 7 vs Document 10:
+Similarity: 49.89%
+Doc 7 (original): Robotics and AI are combining to create autonomous systems.
+Doc 10 (original): Quantum computing may revolutionize the capabilities of AI systems.
+Doc 7 (processed): robotics ai combining create autonomous system
+Doc 10 (processed): quantum computing may revolutionize capability ai system
+
+Document 8 vs Document 9:
+Similarity: 5.54%
+Doc 8 (original): Big data analytics relies heavily on machine learning techniques.
+Doc 9 (original): The ethical implications of AI are a topic of ongoing debate.
+Doc 8 (processed): big data analytics relies heavily machine learning technique
+Doc 9 (processed): ethical implication ai topic ongoing debate
+
+Document 8 vs Document 10:
+Similarity: 27.81%
+Doc 8 (original): Big data analytics relies heavily on machine learning techniques.
+Doc 10 (original): Quantum computing may revolutionize the capabilities of AI systems.
+Doc 8 (processed): big data analytics relies heavily machine learning technique
+Doc 10 (processed): quantum computing may revolutionize capability ai system
+
+Document 9 vs Document 10:
+Similarity: 26.71%
+Doc 9 (original): The ethical implications of AI are a topic of ongoing debate.
+Doc 10 (original): Quantum computing may revolutionize the capabilities of AI systems.
+Doc 9 (processed): ethical implication ai topic ongoing debate
+Doc 10 (processed): quantum computing may revolutionize capability ai system
+
